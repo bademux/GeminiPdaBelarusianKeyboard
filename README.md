@@ -1,0 +1,1 @@
+Gemini PDA Belarusian keyboard layout
